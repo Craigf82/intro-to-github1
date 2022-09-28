@@ -2,3 +2,7 @@
 ## this is an <h2> Header
 ### this is an <h3> Header
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
+$ git init
+Initialized empty Git repository in Users/Skills/Projects/recipe-repository/.git/
+```
